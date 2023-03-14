@@ -1,1 +1,1 @@
-Web liblrary - Spring Web project using JDBC template.
+Web library - Spring Web project using JDBC template.
